@@ -1,0 +1,18 @@
+.mainS{
+    margin: 55% 5% 0 5%;
+}
+.discover{
+    float: left;
+    width: 40%;
+}
+.textS{
+    float: right;
+    width: 45%;
+    font-size: 20px;
+}
+.textS input{
+    border: 1px solid #555555;
+    height: 8vh;
+    font-size: 20px;
+}
+
