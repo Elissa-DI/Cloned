@@ -39,3 +39,22 @@
     width: 75%;
     font-size: 20px;
 }
+.impactD hr{
+    width: 65%;
+    margin-left: 10%;
+}
+.advance{
+    width: 60%;
+    margin: 12% 0 3% 16%;
+}
+.advance button{
+    margin-left: 22%;
+    width: 45%;
+    height: 7.5vh;
+}
+
+@media (max-width: 600px) {
+    .visit{
+        width: 90%;
+    }
+   
