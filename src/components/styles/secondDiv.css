@@ -16,3 +16,27 @@
     font-size: 20px;
 }
 
+@media (max-width: 600px) {
+    .discover{
+        margin: 10%;
+        width: 75%;
+    }
+    .textS{
+        width: 90%;
+        font-size: 19px;
+    }
+    .textS input{
+        margin: 0 8% 0 0;
+    }
+  }
+  
+  /* CSS for screens between 600px and 1200px */
+  @media (min-width: 600px) and (max-width: 1200px) {
+    /* Your CSS rules for medium screens */
+  }
+  
+  /* CSS for screens larger than 1200px */
+  @media (min-width: 1200px) {
+    /* Your CSS rules for large screens */
+  }
+  
