@@ -57,4 +57,23 @@
     .visit{
         width: 90%;
     }
-   
+    .textT{
+        width: 90%;
+    }
+    .impact{
+        width: 70%;
+        margin: 8% 8% 8% 5%;
+    }
+    .textI{
+        width: 70%;
+        font-size: 19px;
+        margin-left: 8%;
+    }
+    .impactD hr{
+        width: 65%;
+        margin: 10%;
+    }
+    .advance{
+        margin-top: 32%;
+    }
+  
