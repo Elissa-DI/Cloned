@@ -1,0 +1,22 @@
+.connectD{
+    width: 100%;
+    height: auto;
+    margin: 45% 5% 0 5%;
+}
+.textT{
+    width: 40%;
+    float: left;
+}
+.visit{
+    float: right;
+    width: 50%;
+}
+.visit button{
+    min-width: 40%;
+    width: auto;
+    background-color: white;
+    color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin: 1%; 
+    padding: 4px 18px;
