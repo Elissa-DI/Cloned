@@ -36,3 +36,22 @@ function thirdDiv() {
                 <div className="textI">
                     <h2>Measure your impact</h2>
                     <br />
+                    <p>Get in-depth stats on who's been reading your work and keep track of your citations.</p>
+                </div>
+                <br />
+                <hr />
+                <br />
+                <div className="advance">
+                    <h2>
+                    Advance your research and join a community of 20 million scientists
+                    </h2>
+                    <br />
+                    <button className='btn btn-success'>Join for free</button>
+                </div>
+            </div>
+        </div>
+    </div>
+  )
+}
+
+export default thirdDiv
