@@ -1,0 +1,44 @@
+.main{
+    margin: 1% 5%;
+}
+.text{
+    width: 40%;
+    float: left;
+    margin-right: 3%;
+    margin-top: 12%;
+}
+#joinBtn{
+    width: 80%;
+    height: 8vh;
+}
+.techImg{
+    float: left;
+    width: 50%;
+}
+
+@media (max-width: 600px) {
+    .techImg{
+        width: 100%;
+    }
+    .text{
+        width: 100%;
+    }
+    #joinBtn{
+        margin: 3% 10%;
+    }
+  }
+  
+  @media (min-width: 600px) and (max-width: 1200px) {
+    .main{
+        margin: 1% 5%;
+    }
+  }
+  
+  /* CSS for screens larger than 1200px */
+  @media (min-width: 1200px) {
+    .techImg{
+        width: 50%;
+        height: 80vh;
+    }
+  }
+  
