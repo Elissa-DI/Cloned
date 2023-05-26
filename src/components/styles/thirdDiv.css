@@ -76,4 +76,21 @@
     .advance{
         margin-top: 32%;
     }
+    .advance button{
+        margin-left: 5%;
+        width: 75%;
+        height: 7.5vh;
+    }
+
+  }
+  
+  /* CSS for screens between 600px and 1200px */
+  @media (min-width: 600px) and (max-width: 1200px) {
+    /* Your CSS rules for medium screens */
+  }
+  
+  /* CSS for screens larger than 1200px */
+  @media (min-width: 1200px) {
+    /* Your CSS rules for large screens */
+  }
   
