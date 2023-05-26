@@ -20,3 +20,22 @@
     border-radius: 20px;
     margin: 1%; 
     padding: 4px 18px;
+}
+.visit button:hover{
+    background-color: rgb(226, 253, 253);
+}
+
+.impactD{
+    width: 100%;
+    margin: 35% 5% 0 5%;
+}
+.impact{
+    float: left;
+    width: 30%;
+    margin-right: 5%;
+}
+.textI{
+    height: 45vh;
+    width: 75%;
+    font-size: 20px;
+}
