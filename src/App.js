@@ -11,3 +11,14 @@ function App() {
     <div className="App">
       < Nav/>
       <FirstDiv />
+      <SecondDiv />
+      <br />
+      <ThirdDiv />
+      <br />
+      <br />
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
