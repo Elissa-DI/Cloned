@@ -77,4 +77,24 @@ function footer() {
                 </li>
             </ul>
             </div>
-  
+            <div className="fs">
+            <ul className='d-flex m-3 justify-content-center' id='rightF'>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+   
