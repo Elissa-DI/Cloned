@@ -37,4 +37,24 @@ function footer() {
             <ul className='d-flex m-5' id='leftF'>
                 <li>
                     <a href="about">
- 
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+  
