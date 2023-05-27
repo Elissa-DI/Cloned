@@ -97,4 +97,23 @@ function footer() {
                 <li>
                     <a href="about">
                        About us
-   
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+                <li>
+                    <a href="about">
+                       About us
+                    </a>
+                </li>
+            </ul>
+            </div>
+        </div>
+     </div>
+  )
+}
+
+export default footer
