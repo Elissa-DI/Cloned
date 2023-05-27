@@ -16,4 +16,25 @@ function footer() {
               <p>
                   Hire qualified researchers and build the best teams in science
               </p>
-  
+              <button>Find out more</button>
+            </div>
+        </div>
+        <br />
+        <div className="recruitmentD">
+            <div>
+              <img src={marketing} className='fImg'/>
+            </div>
+            <div className="textF">
+              <h2>Marketing Solutions</h2>
+              <p>
+                  Griw your brand's impact in the scientific community with the world's leading network for scientists
+              </p>
+              <button>Find out more</button>
+            </div>
+        </div>
+        <div className="last">
+            <div className="fl">
+            <ul className='d-flex m-5' id='leftF'>
+                <li>
+                    <a href="about">
+ 
