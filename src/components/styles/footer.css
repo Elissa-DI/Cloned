@@ -58,4 +58,31 @@ a{
         width: 93%;
         margin: 3%;
     }
-   
+    .textF button{
+        width: 50%;        
+        margin: 3% 0 1% 23%;
+    }
+    .fl{
+        float: left;
+        width: 30%;
+        height: 20vh;
+        flex-direction: row;
+    }
+    .fs{
+        float: right;
+        width: 30%;
+        height: 20vh;
+        flex-direction: row;
+    }
+  }
+  
+  /* CSS for screens between 600px and 1200px */
+  @media (min-width: 600px) and (max-width: 1200px) {
+    /* Your CSS rules for medium screens */
+  }
+  
+  /* CSS for screens larger than 1200px */
+  @media (min-width: 1200px) {
+    /* Your CSS rules for large screens */
+  }
+  
